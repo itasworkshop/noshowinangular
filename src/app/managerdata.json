@@ -1,0 +1,32 @@
+[
+    {
+        "Dimension": "Akil Noor Shaikh",
+        "Empcount": 8,
+        "Chart": 1
+    },
+    {
+        "Dimension": "BDC 5",
+        "Empcount": 8,
+        "Chart": 2
+    },
+    {
+        "Dimension": "2020-02-03",
+        "Empcount": 1,
+        "Chart": 3
+    },
+    {
+        "Dimension": "2020-02-04",
+        "Empcount": 1,
+        "Chart": 3
+    },
+    {
+        "Dimension": "2020-02-14",
+        "Empcount": 1,
+        "Chart": 3
+    },
+    {
+        "Dimension": "2020-02-16",
+        "Empcount": 1,
+        "Chart": 3
+    }
+]
